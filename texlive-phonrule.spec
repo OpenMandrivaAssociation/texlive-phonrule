@@ -6,7 +6,7 @@
 # catalog-version 0.01
 Name:		texlive-phonrule
 Version:	0.01
-Release:	8
+Release:	9
 Summary:	Typeset linear phonological rules
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phonrule

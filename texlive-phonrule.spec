@@ -3,7 +3,7 @@ Version:	43963
 Release:	2
 Summary:	Typeset linear phonological rules
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/phonrule
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/phonrule
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phonrule.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/phonrule.doc.r%{version}.tar.xz
